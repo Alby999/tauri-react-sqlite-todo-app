@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Tauri build artifacts
+/target/
+/tauri.conf.json
+
+# IDE files
+.idea/
+.vscode/
