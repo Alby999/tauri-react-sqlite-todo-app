@@ -1,0 +1,1 @@
+{"package": {"productName": "TODO App","version": "0.1.0","identifier": "com.todoapp.dev","beforeBuildCommand": "npm run build","beforeDevCommand": "npm run dev","devPath": "http://localhost:5173","frontendDist": "../dist","windows": {"fullscreen": false,"height": 800,"resizable": true,"title": "TODO App - Tauri + React + SQLite","width": 1000}}}
